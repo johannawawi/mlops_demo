@@ -1,6 +1,7 @@
 streamlit==1.25.0
 pandas
 pycaret==3.3.1
+joblib
 streamlit-option-menu==0.3.6
 catboost
 pillow==9.5.0
