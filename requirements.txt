@@ -1,0 +1,5 @@
+streamlit==1.25.0
+pandas
+pycaret==3.0.5
+streamlit-option-menu==0.3.6
+catboost
