@@ -1,6 +1,6 @@
 streamlit==1.25.0
 pandas
-pycaret>=3.3.2
-pillow==9.5.0
+pycaret==3.0.5
 streamlit-option-menu==0.3.6
 catboost
+pillow==9.5.0
