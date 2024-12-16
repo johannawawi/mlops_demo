@@ -196,7 +196,7 @@ def about_me():
     )
 
 def main():
-    st.sidebar.title('Navigation')
+    # st.sidebar.title('Navigation')
     st.sidebar.image("images/header.png", width=200)
     with st.sidebar:
         selected = option_menu(
