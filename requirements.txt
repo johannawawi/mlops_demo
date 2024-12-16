@@ -1,6 +1,6 @@
-streamlit==1.25.0
-pandas==1.5.3
-pycaret==3.3.1  # Using PyCaret 3.3.0
-streamlit-option-menu==0.3.6
-catboost==1.2
-pillow==9.5.0
+streamlit
+pandas
+pycaret==3.3.1
+streamlit-option-menu
+pillow
+scikit-learn==1.1.1
