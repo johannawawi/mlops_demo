@@ -6,9 +6,7 @@ from pycaret.datasets import get_data
 
 st.set_page_config(layout="wide")
 
-import joblib
-model = joblib.load('clasf_smart_electrical.pkl')
-# model = load_model('clasf_smart_electrical')
+model = load_model('clasf_smart_electrical')
 
 def predict(model, input_df):
     predictions_df = predict_model(model, data=input_df)
