@@ -1,7 +1,7 @@
 streamlit==1.25.0
 pandas==1.5.3
-pycaret==3.2.0  # Menggunakan versi yang lebih stabil untuk kompatibilitas
+pycaret==3.3.0
 streamlit-option-menu==0.3.6
 catboost==1.2
 pillow==9.5.0
-scikit-learn==1.0.2  # Pastikan versi ini untuk kompatibilitas dengan PyCaret
+scikit-learn==1.0.2 
